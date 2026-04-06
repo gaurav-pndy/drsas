@@ -6,7 +6,7 @@ export const metadata = {
   description: "Доктор САС — травматолог-ортопед",
 
   icons: {
-    icon: "/SANKARANARAYANAN ARUMUGAM Saravanan.jpg",
+    icon: "/favicon.ico",
   },
 
   openGraph: {
